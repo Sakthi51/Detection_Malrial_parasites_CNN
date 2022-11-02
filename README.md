@@ -2,7 +2,7 @@
 
 
 
-When new to CNN and deep learning we often find it difficult to find correct resources to get stated. This code will hel you get started in the easiest manner and will help you gain poerspective of how CNN works and different elements of CNN
+When new to CNN and deep learning we often find it difficult to find correct resources to get stated. This code will help you get started in the easiest manner and will help you gain poerspective of how CNN works and different elements of CNN
 
 To get started please download the data from:
 
