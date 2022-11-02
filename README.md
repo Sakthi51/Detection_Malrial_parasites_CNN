@@ -1,8 +1,6 @@
 # Malaria Detection Using CNN(Keras & Google Colab)
 
-<p align="center">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6PgM9K6Vh5NMk8EwuPW3u1-k1aMLkSLnBvYAAM3nsUuff-NYs&usqp=CAU width=300 height=200>
-</p>
+
 
 When new to CNN and deep learning we often find it difficult to find correct resources to get stated. This code will hel you get started in the easiest manner and will help you gain poerspective of how CNN works and different elements of CNN
 
